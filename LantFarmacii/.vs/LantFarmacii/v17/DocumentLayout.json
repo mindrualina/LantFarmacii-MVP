@@ -1,0 +1,881 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\tema1 Mindru Alina\\LantFarmacii\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3C4ED6D3-6E4E-446C-9B00-1A5D53C4789A}|LantFarmacii\\LantFarmacii.csproj|C:\\Users\\user\\Desktop\\tema1 Mindru Alina\\LantFarmacii\\lantfarmacii\\model\\repository\\utilizatorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C4ED6D3-6E4E-446C-9B00-1A5D53C4789A}|LantFarmacii\\LantFarmacii.csproj|solutionrelative:lantfarmacii\\model\\repository\\utilizatorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C4ED6D3-6E4E-446C-9B00-1A5D53C4789A}|LantFarmacii\\LantFarmacii.csproj|C:\\Users\\user\\Desktop\\tema1 Mindru Alina\\LantFarmacii\\lantfarmacii\\presenter\\autentificarep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C4ED6D3-6E4E-446C-9B00-1A5D53C4789A}|LantFarmacii\\LantFarmacii.csproj|solutionrelative:lantfarmacii\\presenter\\autentificarep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C4ED6D3-6E4E-446C-9B00-1A5D53C4789A}|LantFarmacii\\LantFarmacii.csproj|C:\\Users\\user\\Desktop\\tema1 Mindru Alina\\LantFarmacii\\lantfarmacii\\view\\autentificarev.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C4ED6D3-6E4E-446C-9B00-1A5D53C4789A}|LantFarmacii\\LantFarmacii.csproj|solutionrelative:lantfarmacii\\view\\autentificarev.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C4ED6D3-6E4E-446C-9B00-1A5D53C4789A}|LantFarmacii\\LantFarmacii.csproj|C:\\Users\\user\\Desktop\\tema1 Mindru Alina\\LantFarmacii\\lantfarmacii\\view\\autentificarev.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3C4ED6D3-6E4E-446C-9B00-1A5D53C4789A}|LantFarmacii\\LantFarmacii.csproj|solutionrelative:lantfarmacii\\view\\autentificarev.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C4ED6D3-6E4E-446C-9B00-1A5D53C4789A}|LantFarmacii\\LantFarmacii.csproj|C:\\Users\\user\\Desktop\\tema1 Mindru Alina\\LantFarmacii\\lantfarmacii\\view\\iautentificare.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C4ED6D3-6E4E-446C-9B00-1A5D53C4789A}|LantFarmacii\\LantFarmacii.csproj|solutionrelative:lantfarmacii\\view\\iautentificare.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C4ED6D3-6E4E-446C-9B00-1A5D53C4789A}|LantFarmacii\\LantFarmacii.csproj|C:\\Users\\user\\Desktop\\tema1 Mindru Alina\\LantFarmacii\\lantfarmacii\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C4ED6D3-6E4E-446C-9B00-1A5D53C4789A}|LantFarmacii\\LantFarmacii.csproj|solutionrelative:lantfarmacii\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C4ED6D3-6E4E-446C-9B00-1A5D53C4789A}|LantFarmacii\\LantFarmacii.csproj|c:\\users\\user\\desktop\\tema1 mindru alina\\lantfarmacii\\lantfarmacii\\presenter\\managerp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C4ED6D3-6E4E-446C-9B00-1A5D53C4789A}|LantFarmacii\\LantFarmacii.csproj|solutionrelative:lantfarmacii\\presenter\\managerp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C4ED6D3-6E4E-446C-9B00-1A5D53C4789A}|LantFarmacii\\LantFarmacii.csproj|C:\\Users\\user\\Desktop\\tema1 Mindru Alina\\LantFarmacii\\lantfarmacii\\view\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3C4ED6D3-6E4E-446C-9B00-1A5D53C4789A}|LantFarmacii\\LantFarmacii.csproj|solutionrelative:lantfarmacii\\view\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C4ED6D3-6E4E-446C-9B00-1A5D53C4789A}|LantFarmacii\\LantFarmacii.csproj|C:\\Users\\user\\Desktop\\tema1 Mindru Alina\\LantFarmacii\\lantfarmacii\\view\\imanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C4ED6D3-6E4E-446C-9B00-1A5D53C4789A}|LantFarmacii\\LantFarmacii.csproj|solutionrelative:lantfarmacii\\view\\imanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C4ED6D3-6E4E-446C-9B00-1A5D53C4789A}|LantFarmacii\\LantFarmacii.csproj|C:\\Users\\user\\Desktop\\tema1 Mindru Alina\\LantFarmacii\\lantfarmacii\\model\\repository\\medicamentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C4ED6D3-6E4E-446C-9B00-1A5D53C4789A}|LantFarmacii\\LantFarmacii.csproj|solutionrelative:lantfarmacii\\model\\repository\\medicamentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C4ED6D3-6E4E-446C-9B00-1A5D53C4789A}|LantFarmacii\\LantFarmacii.csproj|C:\\Users\\user\\Desktop\\tema1 Mindru Alina\\LantFarmacii\\lantfarmacii\\presenter\\angajatp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C4ED6D3-6E4E-446C-9B00-1A5D53C4789A}|LantFarmacii\\LantFarmacii.csproj|solutionrelative:lantfarmacii\\presenter\\angajatp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C4ED6D3-6E4E-446C-9B00-1A5D53C4789A}|LantFarmacii\\LantFarmacii.csproj|C:\\Users\\user\\Desktop\\tema1 Mindru Alina\\LantFarmacii\\lantfarmacii\\view\\angajatv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C4ED6D3-6E4E-446C-9B00-1A5D53C4789A}|LantFarmacii\\LantFarmacii.csproj|solutionrelative:lantfarmacii\\view\\angajatv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C4ED6D3-6E4E-446C-9B00-1A5D53C4789A}|LantFarmacii\\LantFarmacii.csproj|C:\\Users\\user\\Desktop\\tema1 Mindru Alina\\LantFarmacii\\lantfarmacii\\view\\angajatv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3C4ED6D3-6E4E-446C-9B00-1A5D53C4789A}|LantFarmacii\\LantFarmacii.csproj|solutionrelative:lantfarmacii\\view\\angajatv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C4ED6D3-6E4E-446C-9B00-1A5D53C4789A}|LantFarmacii\\LantFarmacii.csproj|C:\\Users\\user\\Desktop\\tema1 Mindru Alina\\LantFarmacii\\lantfarmacii\\view\\iangajat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C4ED6D3-6E4E-446C-9B00-1A5D53C4789A}|LantFarmacii\\LantFarmacii.csproj|solutionrelative:lantfarmacii\\view\\iangajat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C4ED6D3-6E4E-446C-9B00-1A5D53C4789A}|LantFarmacii\\LantFarmacii.csproj|C:\\Users\\user\\Desktop\\tema1 Mindru Alina\\LantFarmacii\\lantfarmacii\\model\\medicament.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C4ED6D3-6E4E-446C-9B00-1A5D53C4789A}|LantFarmacii\\LantFarmacii.csproj|solutionrelative:lantfarmacii\\model\\medicament.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C4ED6D3-6E4E-446C-9B00-1A5D53C4789A}|LantFarmacii\\LantFarmacii.csproj|C:\\Users\\user\\Desktop\\tema1 Mindru Alina\\LantFarmacii\\lantfarmacii\\view\\administratorv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3C4ED6D3-6E4E-446C-9B00-1A5D53C4789A}|LantFarmacii\\LantFarmacii.csproj|solutionrelative:lantfarmacii\\view\\administratorv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C4ED6D3-6E4E-446C-9B00-1A5D53C4789A}|LantFarmacii\\LantFarmacii.csproj|C:\\Users\\user\\Desktop\\tema1 Mindru Alina\\LantFarmacii\\lantfarmacii\\model\\repository\\farmacierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C4ED6D3-6E4E-446C-9B00-1A5D53C4789A}|LantFarmacii\\LantFarmacii.csproj|solutionrelative:lantfarmacii\\model\\repository\\farmacierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C4ED6D3-6E4E-446C-9B00-1A5D53C4789A}|LantFarmacii\\LantFarmacii.csproj|C:\\Users\\user\\Desktop\\tema1 Mindru Alina\\LantFarmacii\\lantfarmacii\\view\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C4ED6D3-6E4E-446C-9B00-1A5D53C4789A}|LantFarmacii\\LantFarmacii.csproj|solutionrelative:lantfarmacii\\view\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C4ED6D3-6E4E-446C-9B00-1A5D53C4789A}|LantFarmacii\\LantFarmacii.csproj|C:\\Users\\user\\Desktop\\tema1 Mindru Alina\\LantFarmacii\\lantfarmacii\\presenter\\administratorp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C4ED6D3-6E4E-446C-9B00-1A5D53C4789A}|LantFarmacii\\LantFarmacii.csproj|solutionrelative:lantfarmacii\\presenter\\administratorp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C4ED6D3-6E4E-446C-9B00-1A5D53C4789A}|LantFarmacii\\LantFarmacii.csproj|C:\\Users\\user\\Desktop\\tema1 Mindru Alina\\LantFarmacii\\lantfarmacii\\model\\persoana.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C4ED6D3-6E4E-446C-9B00-1A5D53C4789A}|LantFarmacii\\LantFarmacii.csproj|solutionrelative:lantfarmacii\\model\\persoana.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:1:0:{3C4ED6D3-6E4E-446C-9B00-1A5D53C4789A}|LantFarmacii\\LantFarmacii.csproj|C:\\Users\\user\\Desktop\\tema1 Mindru Alina\\LantFarmacii\\lantfarmacii\\view\\administratorv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:1:0:{3C4ED6D3-6E4E-446C-9B00-1A5D53C4789A}|LantFarmacii\\LantFarmacii.csproj|solutionrelative:lantfarmacii\\view\\administratorv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C4ED6D3-6E4E-446C-9B00-1A5D53C4789A}|LantFarmacii\\LantFarmacii.csproj|C:\\Users\\user\\Desktop\\tema1 Mindru Alina\\LantFarmacii\\lantfarmacii\\view\\angajatv.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C4ED6D3-6E4E-446C-9B00-1A5D53C4789A}|LantFarmacii\\LantFarmacii.csproj|solutionrelative:lantfarmacii\\view\\angajatv.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C4ED6D3-6E4E-446C-9B00-1A5D53C4789A}|LantFarmacii\\LantFarmacii.csproj|C:\\Users\\user\\Desktop\\tema1 Mindru Alina\\LantFarmacii\\lantfarmacii\\view\\angajatv.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{3C4ED6D3-6E4E-446C-9B00-1A5D53C4789A}|LantFarmacii\\LantFarmacii.csproj|solutionrelative:lantfarmacii\\view\\angajatv.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Desktop\\proiect Matei vers 2\\ServiceAuto\\serviceauto\\presenter\\autentificarep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C4ED6D3-6E4E-446C-9B00-1A5D53C4789A}|LantFarmacii\\LantFarmacii.csproj|C:\\Users\\user\\Desktop\\tema1 Mindru Alina\\LantFarmacii\\lantfarmacii\\view\\manager.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C4ED6D3-6E4E-446C-9B00-1A5D53C4789A}|LantFarmacii\\LantFarmacii.csproj|solutionrelative:lantfarmacii\\view\\manager.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C4ED6D3-6E4E-446C-9B00-1A5D53C4789A}|LantFarmacii\\LantFarmacii.csproj|C:\\Users\\user\\Desktop\\tema1 Mindru Alina\\LantFarmacii\\lantfarmacii\\model\\utilizator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C4ED6D3-6E4E-446C-9B00-1A5D53C4789A}|LantFarmacii\\LantFarmacii.csproj|solutionrelative:lantfarmacii\\model\\utilizator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C4ED6D3-6E4E-446C-9B00-1A5D53C4789A}|LantFarmacii\\LantFarmacii.csproj|C:\\Users\\user\\Desktop\\tema1 Mindru Alina\\LantFarmacii\\lantfarmacii\\view\\administratorv.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C4ED6D3-6E4E-446C-9B00-1A5D53C4789A}|LantFarmacii\\LantFarmacii.csproj|solutionrelative:lantfarmacii\\view\\administratorv.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C4ED6D3-6E4E-446C-9B00-1A5D53C4789A}|LantFarmacii\\LantFarmacii.csproj|C:\\Users\\user\\Desktop\\tema1 Mindru Alina\\LantFarmacii\\lantfarmacii\\view\\iadministrator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C4ED6D3-6E4E-446C-9B00-1A5D53C4789A}|LantFarmacii\\LantFarmacii.csproj|solutionrelative:lantfarmacii\\view\\iadministrator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|LantFarmacii||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Desktop\\proiect Matei vers 2\\ServiceAuto\\serviceauto\\model\\persistenta\\utilizatorpersistent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Desktop\\proiect Matei vers 2\\ServiceAuto\\serviceauto\\model\\utilizator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\users\\user\\desktop\\proiect matei vers 2\\serviceauto\\serviceauto\\view\\iautentificare.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Desktop\\proiect Matei vers 2\\ServiceAuto\\serviceauto\\model\\persistenta\\autovehiculpersistent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Desktop\\proiect Matei vers 2\\ServiceAuto\\serviceauto\\model\\autovehicul.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Desktop\\proiect Matei vers 2\\ServiceAuto\\serviceauto\\view\\angajatv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Desktop\\proiect Matei vers 2\\ServiceAuto\\serviceauto\\presenter\\administratorp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Desktop\\proiect Matei vers 2\\ServiceAuto\\serviceauto\\model\\persoana.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Desktop\\proiect Matei vers 2\\ServiceAuto\\serviceauto\\view\\autentificarev.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Desktop\\proiect Matei vers 2\\ServiceAuto\\serviceauto\\view\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Desktop\\proiect Matei vers 2\\ServiceAuto\\serviceauto\\view\\autentificarev.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Desktop\\proiect Matei vers 2\\ServiceAuto\\serviceauto\\view\\administratorv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Desktop\\proiect Matei vers 2\\ServiceAuto\\serviceauto\\view\\administratorv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Desktop\\proiect Matei vers 2\\ServiceAuto\\serviceauto\\view\\imanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Desktop\\proiect Matei vers 2\\ServiceAuto\\serviceauto\\presenter\\managerp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Desktop\\proiect Matei vers 2\\ServiceAuto\\serviceauto\\model\\proprietar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Desktop\\proiect Matei vers 2\\ServiceAuto\\serviceauto\\presenter\\angajatp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Desktop\\proiect Matei vers 2\\ServiceAuto\\serviceauto\\view\\angajatv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Desktop\\proiect Matei vers 2\\ServiceAuto\\serviceauto\\view\\iangajat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Desktop\\proiect Matei vers 2\\ServiceAuto\\serviceauto\\view\\iadministrator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Desktop\\proiect Matei vers 2\\ServiceAuto\\serviceauto\\view\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:2:0:{3C4ED6D3-6E4E-446C-9B00-1A5D53C4789A}|LantFarmacii\\LantFarmacii.csproj|C:\\Users\\user\\Desktop\\tema1 Mindru Alina\\LantFarmacii\\lantfarmacii\\view\\administratorv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:2:0:{3C4ED6D3-6E4E-446C-9B00-1A5D53C4789A}|LantFarmacii\\LantFarmacii.csproj|solutionrelative:lantfarmacii\\view\\administratorv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Desktop\\proiect Matei vers 2\\ServiceAuto\\ServiceAuto\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Desktop\\proiect bun\\LantFarmacii\\lantfarmacii\\model\\persistenta\\utilizatorpersistent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Desktop\\proiect bun\\LantFarmacii\\lantfarmacii\\model\\autovehicul.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Desktop\\proiect bun\\LantFarmacii\\lantfarmacii\\model\\persistenta\\autovehiculpersistent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Desktop\\proiect bun\\LantFarmacii\\lantfarmacii\\model\\proprietar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "AutentificareP.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\proiect Matei vers 2\\ServiceAuto\\ServiceAuto\\Presenter\\AutentificareP.cs",
+              "RelativeDocumentMoniker": "..\\..\\proiect Matei vers 2\\ServiceAuto\\ServiceAuto\\Presenter\\AutentificareP.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\proiect Matei vers 2\\ServiceAuto\\ServiceAuto\\Presenter\\AutentificareP.cs",
+              "RelativeToolTip": "..\\..\\proiect Matei vers 2\\ServiceAuto\\ServiceAuto\\Presenter\\AutentificareP.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAowEAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T11:05:40.518Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ManagerP.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\tema1 Mindru Alina\\LantFarmacii\\LantFarmacii\\Presenter\\ManagerP.cs",
+              "RelativeDocumentMoniker": "LantFarmacii\\Presenter\\ManagerP.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\tema1 Mindru Alina\\LantFarmacii\\LantFarmacii\\Presenter\\ManagerP.cs",
+              "RelativeToolTip": "LantFarmacii\\Presenter\\ManagerP.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T21:22:05.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Persoana.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\tema1 Mindru Alina\\LantFarmacii\\LantFarmacii\\Model\\Persoana.cs",
+              "RelativeDocumentMoniker": "LantFarmacii\\Model\\Persoana.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\tema1 Mindru Alina\\LantFarmacii\\LantFarmacii\\Model\\Persoana.cs",
+              "RelativeToolTip": "LantFarmacii\\Model\\Persoana.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAowAYAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T21:15:46.652Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AutentificareV.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\tema1 Mindru Alina\\LantFarmacii\\LantFarmacii\\View\\AutentificareV.cs",
+              "RelativeDocumentMoniker": "LantFarmacii\\View\\AutentificareV.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\tema1 Mindru Alina\\LantFarmacii\\LantFarmacii\\View\\AutentificareV.cs [Design]",
+              "RelativeToolTip": "LantFarmacii\\View\\AutentificareV.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T21:23:10.753Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IManager.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\tema1 Mindru Alina\\LantFarmacii\\LantFarmacii\\View\\IManager.cs",
+              "RelativeDocumentMoniker": "LantFarmacii\\View\\IManager.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\tema1 Mindru Alina\\LantFarmacii\\LantFarmacii\\View\\IManager.cs",
+              "RelativeToolTip": "LantFarmacii\\View\\IManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T21:22:55.194Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Manager.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\tema1 Mindru Alina\\LantFarmacii\\LantFarmacii\\View\\Manager.cs",
+              "RelativeDocumentMoniker": "LantFarmacii\\View\\Manager.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\prrrrrrrrrrrr\\LantFarmacii\\LantFarmacii\\View\\Manager.cs [Design]",
+              "RelativeToolTip": "..\\..\\prrrrrrrrrrrr\\LantFarmacii\\LantFarmacii\\View\\Manager.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T21:26:05.558Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AutentificareV.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\tema1 Mindru Alina\\LantFarmacii\\LantFarmacii\\View\\AutentificareV.cs",
+              "RelativeDocumentMoniker": "LantFarmacii\\View\\AutentificareV.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\tema1 Mindru Alina\\LantFarmacii\\LantFarmacii\\View\\AutentificareV.cs",
+              "RelativeToolTip": "LantFarmacii\\View\\AutentificareV.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAYwEIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T21:23:12.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IAutentificare.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\tema1 Mindru Alina\\LantFarmacii\\LantFarmacii\\View\\IAutentificare.cs",
+              "RelativeDocumentMoniker": "LantFarmacii\\View\\IAutentificare.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\tema1 Mindru Alina\\LantFarmacii\\LantFarmacii\\View\\IAutentificare.cs",
+              "RelativeToolTip": "LantFarmacii\\View\\IAutentificare.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T21:22:48.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AutentificareP.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\tema1 Mindru Alina\\LantFarmacii\\LantFarmacii\\Presenter\\AutentificareP.cs",
+              "RelativeDocumentMoniker": "LantFarmacii\\Presenter\\AutentificareP.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\tema1 Mindru Alina\\LantFarmacii\\LantFarmacii\\Presenter\\AutentificareP.cs",
+              "RelativeToolTip": "LantFarmacii\\Presenter\\AutentificareP.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAQwA8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T21:21:46.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UtilizatorRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\tema1 Mindru Alina\\LantFarmacii\\LantFarmacii\\Model\\Repository\\UtilizatorRepository.cs",
+              "RelativeDocumentMoniker": "LantFarmacii\\Model\\Repository\\UtilizatorRepository.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\tema1 Mindru Alina\\LantFarmacii\\LantFarmacii\\Model\\Repository\\UtilizatorRepository.cs",
+              "RelativeToolTip": "LantFarmacii\\Model\\Repository\\UtilizatorRepository.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAYwBgAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T01:25:08.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AdministratorV.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\tema1 Mindru Alina\\LantFarmacii\\LantFarmacii\\View\\AdministratorV.cs",
+              "RelativeDocumentMoniker": "LantFarmacii\\View\\AdministratorV.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\prrrrrrrrrrrr\\LantFarmacii\\LantFarmacii\\View\\AdministratorV.cs [Design]",
+              "RelativeToolTip": "..\\..\\prrrrrrrrrrrr\\LantFarmacii\\LantFarmacii\\View\\AdministratorV.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T21:16:06.325Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MedicamentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\tema1 Mindru Alina\\LantFarmacii\\LantFarmacii\\Model\\Repository\\MedicamentRepository.cs",
+              "RelativeDocumentMoniker": "LantFarmacii\\Model\\Repository\\MedicamentRepository.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\tema1 Mindru Alina\\LantFarmacii\\LantFarmacii\\Model\\Repository\\MedicamentRepository.cs",
+              "RelativeToolTip": "LantFarmacii\\Model\\Repository\\MedicamentRepository.cs",
+              "ViewState": "AQIAAFAAAAAAAAAAAAAIwLEAAABkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T00:34:35.981Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Medicament.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\tema1 Mindru Alina\\LantFarmacii\\LantFarmacii\\Model\\Medicament.cs",
+              "RelativeDocumentMoniker": "LantFarmacii\\Model\\Medicament.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\tema1 Mindru Alina\\LantFarmacii\\LantFarmacii\\Model\\Medicament.cs",
+              "RelativeToolTip": "LantFarmacii\\Model\\Medicament.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwBgAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T23:56:18.573Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AngajatV.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\tema1 Mindru Alina\\LantFarmacii\\LantFarmacii\\View\\AngajatV.cs",
+              "RelativeDocumentMoniker": "LantFarmacii\\View\\AngajatV.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\tema1 Mindru Alina\\LantFarmacii\\LantFarmacii\\View\\AngajatV.cs",
+              "RelativeToolTip": "LantFarmacii\\View\\AngajatV.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAvwCEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T21:27:11.146Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\tema1 Mindru Alina\\LantFarmacii\\LantFarmacii\\Program.cs",
+              "RelativeDocumentMoniker": "LantFarmacii\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\tema1 Mindru Alina\\LantFarmacii\\LantFarmacii\\Program.cs",
+              "RelativeToolTip": "LantFarmacii\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T21:15:41.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AngajatV.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\tema1 Mindru Alina\\LantFarmacii\\LantFarmacii\\View\\AngajatV.cs",
+              "RelativeDocumentMoniker": "LantFarmacii\\View\\AngajatV.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\prrrrrrrrrrrr\\LantFarmacii\\LantFarmacii\\View\\AngajatV.cs [Design]",
+              "RelativeToolTip": "..\\..\\prrrrrrrrrrrr\\LantFarmacii\\LantFarmacii\\View\\AngajatV.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T21:27:09.266Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IAngajat.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\tema1 Mindru Alina\\LantFarmacii\\LantFarmacii\\View\\IAngajat.cs",
+              "RelativeDocumentMoniker": "LantFarmacii\\View\\IAngajat.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\tema1 Mindru Alina\\LantFarmacii\\LantFarmacii\\View\\IAngajat.cs",
+              "RelativeToolTip": "LantFarmacii\\View\\IAngajat.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T21:22:37.037Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AngajatP.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\tema1 Mindru Alina\\LantFarmacii\\LantFarmacii\\Presenter\\AngajatP.cs",
+              "RelativeDocumentMoniker": "LantFarmacii\\Presenter\\AngajatP.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\tema1 Mindru Alina\\LantFarmacii\\LantFarmacii\\Presenter\\AngajatP.cs",
+              "RelativeToolTip": "LantFarmacii\\Presenter\\AngajatP.cs",
+              "ViewState": "AQIAAC8BAAAAAAAAAAAQwEABAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T21:21:27.406Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Manager.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\tema1 Mindru Alina\\LantFarmacii\\LantFarmacii\\View\\Manager.cs",
+              "RelativeDocumentMoniker": "LantFarmacii\\View\\Manager.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\tema1 Mindru Alina\\LantFarmacii\\LantFarmacii\\View\\Manager.cs",
+              "RelativeToolTip": "LantFarmacii\\View\\Manager.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAjwDgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T21:26:06.987Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "FarmacieRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\tema1 Mindru Alina\\LantFarmacii\\LantFarmacii\\Model\\Repository\\FarmacieRepository.cs",
+              "RelativeDocumentMoniker": "LantFarmacii\\Model\\Repository\\FarmacieRepository.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\tema1 Mindru Alina\\LantFarmacii\\LantFarmacii\\Model\\Repository\\FarmacieRepository.cs",
+              "RelativeToolTip": "LantFarmacii\\Model\\Repository\\FarmacieRepository.cs",
+              "ViewState": "AQIAADgAAAAAAAAAAAAwwGcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T01:19:50.197Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AdministratorP.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\tema1 Mindru Alina\\LantFarmacii\\LantFarmacii\\Presenter\\AdministratorP.cs",
+              "RelativeDocumentMoniker": "LantFarmacii\\Presenter\\AdministratorP.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\tema1 Mindru Alina\\LantFarmacii\\LantFarmacii\\Presenter\\AdministratorP.cs",
+              "RelativeToolTip": "LantFarmacii\\Presenter\\AdministratorP.cs",
+              "ViewState": "AQIAAIIAAAAAAAAAAAAAAGwAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T21:21:09.562Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "Autovehicul.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\proiect bun\\LantFarmacii\\LantFarmacii\\Model\\Autovehicul.cs",
+              "RelativeDocumentMoniker": "..\\..\\proiect bun\\LantFarmacii\\LantFarmacii\\Model\\Autovehicul.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\proiect bun\\LantFarmacii\\LantFarmacii\\Model\\Autovehicul.cs",
+              "RelativeToolTip": "..\\..\\proiect bun\\LantFarmacii\\LantFarmacii\\Model\\Autovehicul.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T21:15:22.643Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AngajatV.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\tema1 Mindru Alina\\LantFarmacii\\LantFarmacii\\View\\AngajatV.Designer.cs",
+              "RelativeDocumentMoniker": "LantFarmacii\\View\\AngajatV.Designer.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\tema1 Mindru Alina\\LantFarmacii\\LantFarmacii\\View\\AngajatV.Designer.cs",
+              "RelativeToolTip": "LantFarmacii\\View\\AngajatV.Designer.cs",
+              "ViewState": "AQIAAD4BAAAAAAAAAAAowNwAAABiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T21:23:45.642Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AdministratorV.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\tema1 Mindru Alina\\LantFarmacii\\LantFarmacii\\View\\AdministratorV.cs",
+              "RelativeDocumentMoniker": "LantFarmacii\\View\\AdministratorV.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\tema1 Mindru Alina\\LantFarmacii\\LantFarmacii\\View\\AdministratorV.cs",
+              "RelativeToolTip": "LantFarmacii\\View\\AdministratorV.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAEIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T21:16:07.702Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AngajatV.resx",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\tema1 Mindru Alina\\LantFarmacii\\LantFarmacii\\View\\AngajatV.resx",
+              "RelativeDocumentMoniker": "LantFarmacii\\View\\AngajatV.resx",
+              "ToolTip": "C:\\Users\\user\\Desktop\\tema1 Mindru Alina\\LantFarmacii\\LantFarmacii\\View\\AngajatV.resx",
+              "RelativeToolTip": "LantFarmacii\\View\\AngajatV.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-04-11T23:18:20.868Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "UtilizatorPersistent.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\proiect bun\\LantFarmacii\\LantFarmacii\\Model\\Persistenta\\UtilizatorPersistent.cs",
+              "RelativeDocumentMoniker": "..\\..\\proiect bun\\LantFarmacii\\LantFarmacii\\Model\\Persistenta\\UtilizatorPersistent.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\proiect bun\\LantFarmacii\\LantFarmacii\\Model\\Persistenta\\UtilizatorPersistent.cs",
+              "RelativeToolTip": "..\\..\\proiect bun\\LantFarmacii\\LantFarmacii\\Model\\Persistenta\\UtilizatorPersistent.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T21:15:50.605Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Manager.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\tema1 Mindru Alina\\LantFarmacii\\LantFarmacii\\View\\Manager.Designer.cs",
+              "RelativeDocumentMoniker": "LantFarmacii\\View\\Manager.Designer.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\tema1 Mindru Alina\\LantFarmacii\\LantFarmacii\\View\\Manager.Designer.cs",
+              "RelativeToolTip": "LantFarmacii\\View\\Manager.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T21:26:26.352Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "AutovehiculPersistent.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\proiect bun\\LantFarmacii\\LantFarmacii\\Model\\Persistenta\\AutovehiculPersistent.cs",
+              "RelativeDocumentMoniker": "..\\..\\proiect bun\\LantFarmacii\\LantFarmacii\\Model\\Persistenta\\AutovehiculPersistent.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\proiect bun\\LantFarmacii\\LantFarmacii\\Model\\Persistenta\\AutovehiculPersistent.cs",
+              "RelativeToolTip": "..\\..\\proiect bun\\LantFarmacii\\LantFarmacii\\Model\\Persistenta\\AutovehiculPersistent.cs",
+              "ViewState": "AQIAAKcAAAAAAAAAAAAuwAwAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T21:20:26.744Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Utilizator.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\tema1 Mindru Alina\\LantFarmacii\\LantFarmacii\\Model\\Utilizator.cs",
+              "RelativeDocumentMoniker": "LantFarmacii\\Model\\Utilizator.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\tema1 Mindru Alina\\LantFarmacii\\LantFarmacii\\Model\\Utilizator.cs",
+              "RelativeToolTip": "LantFarmacii\\Model\\Utilizator.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAwwAYAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T21:15:44.48Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "AdministratorV.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\tema1 Mindru Alina\\LantFarmacii\\LantFarmacii\\View\\AdministratorV.Designer.cs",
+              "RelativeDocumentMoniker": "LantFarmacii\\View\\AdministratorV.Designer.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\tema1 Mindru Alina\\LantFarmacii\\LantFarmacii\\View\\AdministratorV.Designer.cs",
+              "RelativeToolTip": "LantFarmacii\\View\\AdministratorV.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T21:23:38.027Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "IAdministrator.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\tema1 Mindru Alina\\LantFarmacii\\LantFarmacii\\View\\IAdministrator.cs",
+              "RelativeDocumentMoniker": "LantFarmacii\\View\\IAdministrator.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\tema1 Mindru Alina\\LantFarmacii\\LantFarmacii\\View\\IAdministrator.cs",
+              "RelativeToolTip": "LantFarmacii\\View\\IAdministrator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T21:22:30.679Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "Proprietar.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\proiect bun\\LantFarmacii\\LantFarmacii\\Model\\Proprietar.cs",
+              "RelativeDocumentMoniker": "..\\..\\proiect bun\\LantFarmacii\\LantFarmacii\\Model\\Proprietar.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\proiect bun\\LantFarmacii\\LantFarmacii\\Model\\Proprietar.cs",
+              "RelativeToolTip": "..\\..\\proiect bun\\LantFarmacii\\LantFarmacii\\Model\\Proprietar.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T21:20:55.811Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "LantFarmacii",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\proiect Matei vers 2\\ServiceAuto\\ServiceAuto\\LantFarmacii.csproj",
+              "RelativeDocumentMoniker": "..\\..\\proiect Matei vers 2\\ServiceAuto\\ServiceAuto\\LantFarmacii.csproj",
+              "ToolTip": "C:\\Users\\user\\Desktop\\proiect Matei vers 2\\ServiceAuto\\ServiceAuto\\LantFarmacii.csproj",
+              "RelativeToolTip": "..\\..\\proiect Matei vers 2\\ServiceAuto\\ServiceAuto\\LantFarmacii.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-04-11T21:01:39.436Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\proiect Matei vers 2\\ServiceAuto\\ServiceAuto\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\proiect Matei vers 2\\ServiceAuto\\ServiceAuto\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\proiect Matei vers 2\\ServiceAuto\\ServiceAuto\\Program.cs",
+              "RelativeToolTip": "..\\..\\proiect Matei vers 2\\ServiceAuto\\ServiceAuto\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "UtilizatorPersistent.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\proiect Matei vers 2\\ServiceAuto\\ServiceAuto\\Model\\Persistenta\\UtilizatorPersistent.cs",
+              "RelativeDocumentMoniker": "..\\..\\proiect Matei vers 2\\ServiceAuto\\ServiceAuto\\Model\\Persistenta\\UtilizatorPersistent.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\proiect Matei vers 2\\ServiceAuto\\ServiceAuto\\Model\\Persistenta\\UtilizatorPersistent.cs",
+              "RelativeToolTip": "..\\..\\proiect Matei vers 2\\ServiceAuto\\ServiceAuto\\Model\\Persistenta\\UtilizatorPersistent.cs",
+              "ViewState": "AQIAAE8AAAAAAAAAAAAuwJsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T13:33:57.913Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Utilizator.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\proiect Matei vers 2\\ServiceAuto\\ServiceAuto\\Model\\Utilizator.cs",
+              "RelativeDocumentMoniker": "..\\..\\proiect Matei vers 2\\ServiceAuto\\ServiceAuto\\Model\\Utilizator.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\proiect Matei vers 2\\ServiceAuto\\ServiceAuto\\Model\\Utilizator.cs",
+              "RelativeToolTip": "..\\..\\proiect Matei vers 2\\ServiceAuto\\ServiceAuto\\Model\\Utilizator.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwCgAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T11:29:23.629Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "IAutentificare.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\proiect Matei vers 2\\ServiceAuto\\ServiceAuto\\View\\IAutentificare.cs",
+              "RelativeDocumentMoniker": "..\\..\\proiect Matei vers 2\\ServiceAuto\\ServiceAuto\\View\\IAutentificare.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\proiect Matei vers 2\\ServiceAuto\\ServiceAuto\\View\\IAutentificare.cs",
+              "RelativeToolTip": "..\\..\\proiect Matei vers 2\\ServiceAuto\\ServiceAuto\\View\\IAutentificare.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T13:42:27.373Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "AutovehiculPersistent.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\proiect Matei vers 2\\ServiceAuto\\ServiceAuto\\Model\\Persistenta\\AutovehiculPersistent.cs",
+              "RelativeDocumentMoniker": "..\\..\\proiect Matei vers 2\\ServiceAuto\\ServiceAuto\\Model\\Persistenta\\AutovehiculPersistent.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\proiect Matei vers 2\\ServiceAuto\\ServiceAuto\\Model\\Persistenta\\AutovehiculPersistent.cs",
+              "RelativeToolTip": "..\\..\\proiect Matei vers 2\\ServiceAuto\\ServiceAuto\\Model\\Persistenta\\AutovehiculPersistent.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAowMIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T13:19:39.343Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Autovehicul.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\proiect Matei vers 2\\ServiceAuto\\ServiceAuto\\Model\\Autovehicul.cs",
+              "RelativeDocumentMoniker": "..\\..\\proiect Matei vers 2\\ServiceAuto\\ServiceAuto\\Model\\Autovehicul.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\proiect Matei vers 2\\ServiceAuto\\ServiceAuto\\Model\\Autovehicul.cs",
+              "RelativeToolTip": "..\\..\\proiect Matei vers 2\\ServiceAuto\\ServiceAuto\\Model\\Autovehicul.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T13:33:22.689Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "AngajatV.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\proiect Matei vers 2\\ServiceAuto\\ServiceAuto\\View\\AngajatV.cs",
+              "RelativeDocumentMoniker": "..\\..\\proiect Matei vers 2\\ServiceAuto\\ServiceAuto\\View\\AngajatV.cs",
+              "ToolTip": "D:\\facultate\\masterCSC_an1\\PS\\proiect Matei\\ServiceAuto\\ServiceAuto\\View\\AngajatV.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T13:53:52.04Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\proiect Matei vers 2\\ServiceAuto\\ServiceAuto\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\proiect Matei vers 2\\ServiceAuto\\ServiceAuto\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\proiect Matei vers 2\\ServiceAuto\\ServiceAuto\\Program.cs",
+              "RelativeToolTip": "..\\..\\proiect Matei vers 2\\ServiceAuto\\ServiceAuto\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T11:20:54.947Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "AdministratorP.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\proiect Matei vers 2\\ServiceAuto\\ServiceAuto\\Presenter\\AdministratorP.cs",
+              "RelativeDocumentMoniker": "..\\..\\proiect Matei vers 2\\ServiceAuto\\ServiceAuto\\Presenter\\AdministratorP.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\proiect Matei vers 2\\ServiceAuto\\ServiceAuto\\Presenter\\AdministratorP.cs",
+              "RelativeToolTip": "..\\..\\proiect Matei vers 2\\ServiceAuto\\ServiceAuto\\Presenter\\AdministratorP.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAKYAAABYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T13:39:06.541Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Persoana.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\proiect Matei vers 2\\ServiceAuto\\ServiceAuto\\Model\\Persoana.cs",
+              "RelativeDocumentMoniker": "..\\..\\proiect Matei vers 2\\ServiceAuto\\ServiceAuto\\Model\\Persoana.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\proiect Matei vers 2\\ServiceAuto\\ServiceAuto\\Model\\Persoana.cs",
+              "RelativeToolTip": "..\\..\\proiect Matei vers 2\\ServiceAuto\\ServiceAuto\\Model\\Persoana.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T11:29:21.702Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "AutentificareV.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\proiect Matei vers 2\\ServiceAuto\\ServiceAuto\\View\\AutentificareV.cs",
+              "RelativeDocumentMoniker": "..\\..\\proiect Matei vers 2\\ServiceAuto\\ServiceAuto\\View\\AutentificareV.cs",
+              "ToolTip": "D:\\facultate\\masterCSC_an1\\PS\\proiect Matei\\ServiceAuto\\ServiceAuto\\View\\AutentificareV.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T11:07:21.674Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Manager.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\proiect Matei vers 2\\ServiceAuto\\ServiceAuto\\View\\Manager.cs",
+              "RelativeDocumentMoniker": "..\\..\\proiect Matei vers 2\\ServiceAuto\\ServiceAuto\\View\\Manager.cs",
+              "ToolTip": "D:\\facultate\\masterCSC_an1\\PS\\proiect Matei\\ServiceAuto\\ServiceAuto\\View\\Manager.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T14:21:49.775Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "AutentificareV.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\proiect Matei vers 2\\ServiceAuto\\ServiceAuto\\View\\AutentificareV.cs",
+              "RelativeDocumentMoniker": "..\\..\\proiect Matei vers 2\\ServiceAuto\\ServiceAuto\\View\\AutentificareV.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\proiect Matei vers 2\\ServiceAuto\\ServiceAuto\\View\\AutentificareV.cs",
+              "RelativeToolTip": "..\\..\\proiect Matei vers 2\\ServiceAuto\\ServiceAuto\\View\\AutentificareV.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T11:21:02.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "AdministratorV.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\proiect Matei vers 2\\ServiceAuto\\ServiceAuto\\View\\AdministratorV.cs",
+              "RelativeDocumentMoniker": "..\\..\\proiect Matei vers 2\\ServiceAuto\\ServiceAuto\\View\\AdministratorV.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\proiect Matei vers 2\\ServiceAuto\\ServiceAuto\\View\\AdministratorV.cs",
+              "RelativeToolTip": "..\\..\\proiect Matei vers 2\\ServiceAuto\\ServiceAuto\\View\\AdministratorV.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAF8AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T13:35:39.277Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "AdministratorV.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\proiect Matei vers 2\\ServiceAuto\\ServiceAuto\\View\\AdministratorV.cs",
+              "RelativeDocumentMoniker": "..\\..\\proiect Matei vers 2\\ServiceAuto\\ServiceAuto\\View\\AdministratorV.cs",
+              "ToolTip": "D:\\facultate\\masterCSC_an1\\PS\\proiect Matei\\ServiceAuto\\ServiceAuto\\View\\AdministratorV.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T13:42:30.91Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "IManager.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\proiect Matei vers 2\\ServiceAuto\\ServiceAuto\\View\\IManager.cs",
+              "RelativeDocumentMoniker": "..\\..\\proiect Matei vers 2\\ServiceAuto\\ServiceAuto\\View\\IManager.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\proiect Matei vers 2\\ServiceAuto\\ServiceAuto\\View\\IManager.cs",
+              "RelativeToolTip": "..\\..\\proiect Matei vers 2\\ServiceAuto\\ServiceAuto\\View\\IManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T14:31:01.952Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "ManagerP.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\proiect Matei vers 2\\ServiceAuto\\ServiceAuto\\Presenter\\ManagerP.cs",
+              "RelativeDocumentMoniker": "..\\..\\proiect Matei vers 2\\ServiceAuto\\ServiceAuto\\Presenter\\ManagerP.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\proiect Matei vers 2\\ServiceAuto\\ServiceAuto\\Presenter\\ManagerP.cs",
+              "RelativeToolTip": "..\\..\\proiect Matei vers 2\\ServiceAuto\\ServiceAuto\\Presenter\\ManagerP.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T14:32:13.264Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Proprietar.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\proiect Matei vers 2\\ServiceAuto\\ServiceAuto\\Model\\Proprietar.cs",
+              "RelativeDocumentMoniker": "..\\..\\proiect Matei vers 2\\ServiceAuto\\ServiceAuto\\Model\\Proprietar.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\proiect Matei vers 2\\ServiceAuto\\ServiceAuto\\Model\\Proprietar.cs",
+              "RelativeToolTip": "..\\..\\proiect Matei vers 2\\ServiceAuto\\ServiceAuto\\Model\\Proprietar.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T11:29:22.52Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "AngajatP.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\proiect Matei vers 2\\ServiceAuto\\ServiceAuto\\Presenter\\AngajatP.cs",
+              "RelativeDocumentMoniker": "..\\..\\proiect Matei vers 2\\ServiceAuto\\ServiceAuto\\Presenter\\AngajatP.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\proiect Matei vers 2\\ServiceAuto\\ServiceAuto\\Presenter\\AngajatP.cs",
+              "RelativeToolTip": "..\\..\\proiect Matei vers 2\\ServiceAuto\\ServiceAuto\\Presenter\\AngajatP.cs",
+              "ViewState": "AQIAAI0AAAAAAAAAAAAmwGYAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T14:02:57.184Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "AngajatV.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\proiect Matei vers 2\\ServiceAuto\\ServiceAuto\\View\\AngajatV.cs",
+              "RelativeDocumentMoniker": "..\\..\\proiect Matei vers 2\\ServiceAuto\\ServiceAuto\\View\\AngajatV.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\proiect Matei vers 2\\ServiceAuto\\ServiceAuto\\View\\AngajatV.cs",
+              "RelativeToolTip": "..\\..\\proiect Matei vers 2\\ServiceAuto\\ServiceAuto\\View\\AngajatV.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T11:14:06.704Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "IAngajat.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\proiect Matei vers 2\\ServiceAuto\\ServiceAuto\\View\\IAngajat.cs",
+              "RelativeDocumentMoniker": "..\\..\\proiect Matei vers 2\\ServiceAuto\\ServiceAuto\\View\\IAngajat.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\proiect Matei vers 2\\ServiceAuto\\ServiceAuto\\View\\IAngajat.cs",
+              "RelativeToolTip": "..\\..\\proiect Matei vers 2\\ServiceAuto\\ServiceAuto\\View\\IAngajat.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAswBYAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T14:15:12.23Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "IAdministrator.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\proiect Matei vers 2\\ServiceAuto\\ServiceAuto\\View\\IAdministrator.cs",
+              "RelativeDocumentMoniker": "..\\..\\proiect Matei vers 2\\ServiceAuto\\ServiceAuto\\View\\IAdministrator.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\proiect Matei vers 2\\ServiceAuto\\ServiceAuto\\View\\IAdministrator.cs",
+              "RelativeToolTip": "..\\..\\proiect Matei vers 2\\ServiceAuto\\ServiceAuto\\View\\IAdministrator.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAowBQAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T09:45:58.018Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "Manager.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\proiect Matei vers 2\\ServiceAuto\\ServiceAuto\\View\\Manager.cs",
+              "RelativeDocumentMoniker": "..\\..\\proiect Matei vers 2\\ServiceAuto\\ServiceAuto\\View\\Manager.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\proiect Matei vers 2\\ServiceAuto\\ServiceAuto\\View\\Manager.cs",
+              "RelativeToolTip": "..\\..\\proiect Matei vers 2\\ServiceAuto\\ServiceAuto\\View\\Manager.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAYwEMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T14:37:50.268Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

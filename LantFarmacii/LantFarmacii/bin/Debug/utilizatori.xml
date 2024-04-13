@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<utilizatori>
+  <utilizator>
+    <legitimatie>1</legitimatie>
+    <nume>Stefan</nume>
+    <cont>Stefan</cont>
+    <parola>angajat</parola>
+    <rol>Angajat</rol>
+  </utilizator>
+  <utilizator>
+    <legitimatie>3</legitimatie>
+    <nume>Andreea</nume>
+    <cont>Andreea</cont>
+    <parola>manager</parola>
+    <rol>Manager</rol>
+  </utilizator>
+  <utilizator>
+    <legitimatie>6</legitimatie>
+    <nume>Alina</nume>
+    <cont>alina</cont>
+    <parola>123</parola>
+    <rol>Manager</rol>
+  </utilizator>
+  <utilizator>
+    <legitimatie>2</legitimatie>
+    <nume>Ioana</nume>
+    <cont>Ioana</cont>
+    <parola>admin</parola>
+    <rol>Administrator</rol>
+  </utilizator>
+</utilizatori>

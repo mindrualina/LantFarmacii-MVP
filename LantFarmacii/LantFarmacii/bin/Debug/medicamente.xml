@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<medicamente>
+  <medicament>
+    <cod_medicament>1</cod_medicament>
+    <denumire>Algocalmin</denumire>
+    <disponibilitate>DA</disponibilitate>
+    <pret>5</pret>
+    <valabilitate>2026</valabilitate>
+    <producator>Producator1</producator>
+  </medicament>
+  <medicament>
+    <cod_medicament>0</cod_medicament>
+    <denumire>Bioflu</denumire>
+    <disponibilitate>DA</disponibilitate>
+    <pret>25</pret>
+    <valabilitate>2027</valabilitate>
+    <producator>Producator3</producator>
+  </medicament>
+  <medicament>
+    <cod_medicament>0</cod_medicament>
+    <denumire>Nurofen</denumire>
+    <disponibilitate>NU</disponibilitate>
+    <pret>20</pret>
+    <valabilitate>2026</valabilitate>
+    <producator>Producator2</producator>
+  </medicament>
+  <medicament>
+    <cod_medicament>0</cod_medicament>
+    <denumire>tusin</denumire>
+    <disponibilitate>NU</disponibilitate>
+    <pret>23</pret>
+    <valabilitate>2025</valabilitate>
+    <producator>producator7</producator>
+  </medicament>
+</medicamente>

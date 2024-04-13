@@ -1,0 +1,23 @@
+C:\Users\user\Desktop\prrrrrrrrrrrr\LantFarmacii\LantFarmacii\bin\Debug\LantFarmacii.exe.config
+C:\Users\user\Desktop\prrrrrrrrrrrr\LantFarmacii\LantFarmacii\bin\Debug\LantFarmacii.exe
+C:\Users\user\Desktop\prrrrrrrrrrrr\LantFarmacii\LantFarmacii\bin\Debug\LantFarmacii.pdb
+C:\Users\user\Desktop\prrrrrrrrrrrr\LantFarmacii\LantFarmacii\obj\Debug\LantFarmacii.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\prrrrrrrrrrrr\LantFarmacii\LantFarmacii\obj\Debug\LantFarmacii.Properties.Resources.resources
+C:\Users\user\Desktop\prrrrrrrrrrrr\LantFarmacii\LantFarmacii\obj\Debug\LantFarmacii.View.AdministratorV.resources
+C:\Users\user\Desktop\prrrrrrrrrrrr\LantFarmacii\LantFarmacii\obj\Debug\LantFarmacii.AngajatV.resources
+C:\Users\user\Desktop\prrrrrrrrrrrr\LantFarmacii\LantFarmacii\obj\Debug\LantFarmacii.View.AutentificareV.resources
+C:\Users\user\Desktop\prrrrrrrrrrrr\LantFarmacii\LantFarmacii\obj\Debug\LantFarmacii.View.Manager.resources
+C:\Users\user\Desktop\prrrrrrrrrrrr\LantFarmacii\LantFarmacii\obj\Debug\LantFarmacii.csproj.GenerateResource.cache
+C:\Users\user\Desktop\prrrrrrrrrrrr\LantFarmacii\LantFarmacii\obj\Debug\LantFarmacii.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\prrrrrrrrrrrr\LantFarmacii\LantFarmacii\obj\Debug\LantFarmacii.exe
+C:\Users\user\Desktop\prrrrrrrrrrrr\LantFarmacii\LantFarmacii\obj\Debug\LantFarmacii.pdb
+C:\Users\user\Desktop\tema1 Mindru Alina\LantFarmacii\LantFarmacii\obj\Debug\LantFarmacii.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\tema1 Mindru Alina\LantFarmacii\LantFarmacii\obj\Debug\LantFarmacii.Properties.Resources.resources
+C:\Users\user\Desktop\tema1 Mindru Alina\LantFarmacii\LantFarmacii\obj\Debug\LantFarmacii.View.AdministratorV.resources
+C:\Users\user\Desktop\tema1 Mindru Alina\LantFarmacii\LantFarmacii\obj\Debug\LantFarmacii.AngajatV.resources
+C:\Users\user\Desktop\tema1 Mindru Alina\LantFarmacii\LantFarmacii\obj\Debug\LantFarmacii.View.AutentificareV.resources
+C:\Users\user\Desktop\tema1 Mindru Alina\LantFarmacii\LantFarmacii\obj\Debug\LantFarmacii.View.Manager.resources
+C:\Users\user\Desktop\tema1 Mindru Alina\LantFarmacii\LantFarmacii\obj\Debug\LantFarmacii.csproj.GenerateResource.cache
+C:\Users\user\Desktop\tema1 Mindru Alina\LantFarmacii\LantFarmacii\obj\Debug\LantFarmacii.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\tema1 Mindru Alina\LantFarmacii\LantFarmacii\obj\Debug\LantFarmacii.exe
+C:\Users\user\Desktop\tema1 Mindru Alina\LantFarmacii\LantFarmacii\obj\Debug\LantFarmacii.pdb
